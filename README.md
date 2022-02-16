@@ -44,7 +44,7 @@
 
 ## Props
 - basic
-    - primitive value - [source code](./src/pages/Props/basic-primitive-value.tsx) - [source code](./src/pages/)
+    - primitive value - [source code](./src/components/props/basic-primitive-value.tsx)
     - object - [source code](./src/components/props/basic-object.tsx)
     - array - [source code](./src/components/props/basic-array.tsx)
 - advanced
