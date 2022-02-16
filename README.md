@@ -5,10 +5,11 @@
     - [readme - Default create-react-app README](./-default-create-react-app-readme.md)
     - [readme - Typescript foundation for beginner](./notes/typescript-foundation.md)
 - Typescript Doc
-    - [link - Typescript handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-    - [link - Typescript utility types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
-- FAQ
-    - [link - Interface VS type in Typescript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript)
+    - [Reference - Typescript handbook](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+    - [Reference - Typescript utility types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
+- More
+    - [Reference - Interface VS type in Typescript](https://stackoverflow.com/questions/37233735/interfaces-vs-types-in-typescript)
+    - [Reference - Fetch data with React Hooks and Typescript](https://dev.to/camilomejia/fetch-data-with-react-hooks-and-typescript-390c)
 
 ## Environment Setup
 - use template
